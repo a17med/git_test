@@ -1,0 +1,3 @@
+I am learning web development.
+I am practicing Git.
+This is my first independent Git task.
